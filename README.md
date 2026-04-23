@@ -50,10 +50,10 @@ npm install
 npm run dev
 ```
 
-The app needs Supabase environment variables set up. See [SUPABASE.md](./SUPABASE.md) for details.
+The app needs Supabase environment variables set up. See [docs/SUPABASE.md](./docs/SUPABASE.md) for details.
 
 ## Learning notes
 
-See [ARCHITECTURE.md](./ARCHITECTURE.md) for an explanation of how the pieces fit together — useful if you're learning React or want to understand how to later replace Supabase with a Spring Boot backend.
+See [docs/ARCHITECTURE.md](./docs/ARCHITECTURE.md) for an explanation of how the pieces fit together, including the two options for adding a backend (Supabase Edge Functions vs Go API).
 
-See [STRIPE.md](./STRIPE.md) for the plan to add real payments in the future — explains the architecture, what needs to be built, and what changes in React.
+See [docs/STRIPE.md](./docs/STRIPE.md) for the plan to add real payments in the future — explains the architecture, what needs to be built, and what changes in React.

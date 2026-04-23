@@ -82,7 +82,7 @@ React → Go API → Stripe
 
 Good for: learning Go, complex business logic, full control over the runtime.
 
-**The backend choice is undecided** — Go or Edge Functions, to be decided when payments are actually built. See [STRIPE.md](./STRIPE.md) for the trade-offs and payment integration plan.
+**The backend choice is undecided** — Go or Edge Functions, to be decided when payments are actually built. See [STRIPE.md](./STRIPE.md) for the trade-offs and payment integration plan. (Both files are in `docs/`.)
 
 ### What changes in React (either path)
 
